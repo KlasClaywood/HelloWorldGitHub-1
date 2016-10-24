@@ -11,6 +11,7 @@ namespace HelloWorldGitHub
         static void Main(string[] args)
         {
             // First Comment of GitHub Project.
+            Console.WriteLine("Hello GitHub!");
         }
     }
 }
